@@ -1,6 +1,3 @@
-Sure! Here’s a clean, professional **README.md** template for your project based on what we’ve built:
-
-````markdown
 # Tour Booking API
 
 A RESTful API for managing tours, guides, bookings, tourists, and reviews with JWT authentication, built using Express.js.
